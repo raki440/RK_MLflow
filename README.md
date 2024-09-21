@@ -14,3 +14,4 @@ The MLflow client creates an instance of an S3ArtifactRepository, connects to th
 
 Mlflow Tracking server:
 
+<img width="1437" alt="Screenshot 2024-09-21 at 10 28 59 PM" src="https://github.com/user-attachments/assets/77cdf9f3-1440-4651-b01c-e92d55290022">
